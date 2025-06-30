@@ -1,8 +1,7 @@
 ### Exercício Módulo 10 - Plugins jQuery
 
 ## CORREÇÕES FEITAS POR MIM
-- No seu index.html, o seletor estava incorreto: \$('#carousel').slick(...) quando o correto é \$('#carousel-imagens').slick(...)
-
+- No seu index.html, o seletor estava incorreto: #carousel quando o correto é #carousel-imagens
 - Correção da ordem de carregamento dos scripts que estava incorreta
 - Correção dos scripts que estavam sendo chamados duas vezes, em ordens conflitantes
 - O jQuery plugin só executa depois que o jQuery carregar na página.
